@@ -20,7 +20,7 @@ be customized.
   s.preserve_paths = 'LICENSE', 'README.md'
   s.requires_arc   = true
   s.platform       = :ios
-  s.ios.deployment_target = '7.0'
+  s.ios.deployment_target = '6.0'
   s.screenshots    = %w[
 https://raw.github.com/fphilipe/PHFComposeBarView/v2.0.0/Screenshots/demo.gif
 https://raw.github.com/fphilipe/PHFComposeBarView/v2.0.0/Screenshots/empty.png
